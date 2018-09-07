@@ -4,8 +4,6 @@ import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
 
-import home.blackharold.Drop;
-
 public class HtmlLauncher extends GwtApplication {
 
     // USE THIS CODE FOR A FIXED SIZE APPLICATION
